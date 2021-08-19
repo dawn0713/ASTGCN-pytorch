@@ -6,9 +6,7 @@ This is a **Pytorch** implementation of ASTGCN and MSTCGN. Since the official ve
 
 # Datasets
 
-Step1: Download PEMS04 and PEMS08 datasets provided by [ASTGCN-gluon version](https://github.com/guoshnBJTU/ASTGCN/tree/master/data). 
-
-Step2: Process dataset
+Process dataset
 
 - on PEMS04 dataset
 
